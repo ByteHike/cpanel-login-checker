@@ -1,1 +1,1 @@
-# cpanel-login-checker
+# cpanel login checker
